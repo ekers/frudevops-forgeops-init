@@ -12,7 +12,7 @@
     "searchScope" : "SUBTREE",
     "returnUserDN" : true,
     "userBindPassword" : null,
-    "userBindPassword-encrypted" : "AAAAA0FFUwIQfoNLEYiSIqkOywwDdA4C9lI5QFVUsQmJBnBqRSRWQs0l44U0WMq3Pg==",
+    "userBindPassword-encrypted" : "AAAAA0FFUwIQpN0+WFRlEgCpRP8K8X8uZUw0v0LvwLz8VsRGC1TdHtszy4SUYjqWlA==",
     "profileAttributeMappings" : [ ],
     "userBindDN" : "cn=Directory manager",
     "userSearchAttributes" : [ "uid" ],

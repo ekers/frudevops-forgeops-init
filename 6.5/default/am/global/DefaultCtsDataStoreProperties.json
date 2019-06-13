@@ -20,7 +20,7 @@
       "org.forgerock.services.cts.store.directory.name" : "ctsstore-0.ctsstore:1389",
       "org.forgerock.services.cts.store.loginid" : "cn=Directory Manager",
       "org.forgerock.services.cts.store.password" : null,
-      "org.forgerock.services.cts.store.password-encrypted" : "AAAAA0FFUwIQtDGkGXrobzEFL6sHE/wVLBx/uCs6KK5sxAZkh4Qrtdw9qRjA8+qFpw==",
+      "org.forgerock.services.cts.store.password-encrypted" : "AAAAA0FFUwIQWPLem3qclVvhqt+1i3OX0rYx7UE73C6Wwstyp/deNW+shGlG+GJxxg==",
       "org.forgerock.services.cts.store.heartbeat" : "10",
       "org.forgerock.services.cts.store.affinity.enabled" : false
     }
